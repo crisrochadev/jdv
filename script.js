@@ -1,6 +1,6 @@
 const main_element = document.querySelector("main");
 
-let level = 10;
+let level = 2;
 let cardsChoosed = [];
 let allOptions = [];
 
